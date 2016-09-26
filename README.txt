@@ -1,7 +1,21 @@
 Real-time 3D Ultrasound Stitching
 Imperial College London Computing BEng Final Year Project
 
-The increasing adoption of 3D ultrasound by the medical community has drawn a focus on the technical improvements that can be made to increase its quality as a diagnostic imaging technique. This project proposes an implementation for real-time ultrasound image fusion and regis- tration in order to rectify small alignment errors in ultrasound acquisition systems. The required levels of parallelization for real-time performance are achieved through the use of the CUDA parallel computing platform. The work accomplished in this project forms part of a larger research initiative with King’s College London which hopes to increase the usefulness of medical ultrasound.
+The increasing adoption of 3D ultrasound by the medical 
+community has drawn a focus on the technical improvements 
+that can be made to increase its quality as a diagnostic 
+imaging technique. 
+
+This project proposes an implementation for real-time 
+ultrasound image fusion and regis- tration in order to 
+rectify small alignment errors in ultrasound acquisition 
+systems. The required levels of parallelization for 
+real-time performance are achieved through the use of the 
+CUDA parallel computing platform. 
+
+The work accomplished in this project forms part of a 
+larger research initiative with King’s College London 
+which hopes to increase the usefulness of medical ultrasound.
 
 -----------------
 BUILD INTRUCTIONS
