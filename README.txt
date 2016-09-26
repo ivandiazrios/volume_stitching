@@ -1,5 +1,6 @@
 Real-time 3D Ultrasound Stitching
-Imperial College London Computing BEng Final Year Project
+Individual Final Year Project
+Imperial College London, BEng Computing
 
 The increasing adoption of 3D ultrasound by the medical community has drawn a 
 focus on the technical improvements that can be made to increase its quality 
