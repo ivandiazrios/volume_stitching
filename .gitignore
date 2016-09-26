@@ -1,0 +1,22 @@
+# IDE generated file
+**/.idea/
+**/.cproject
+**/.project
+
+
+# Python scipt files
+*.pyc
+
+# CMake produced files
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# binary files
+**/bin/
+
+#swp files
+*.swp
